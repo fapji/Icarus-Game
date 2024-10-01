@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   version="1.1"
+   viewBox="0 0 800 10527"
+   sodipodi:docname="doors.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.1184573"
+     inkscape:cx="396.76744"
+     inkscape:cy="5263.5"
+     inkscape:window-width="2560"
+     inkscape:window-height="1494"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">
+      .cls-1 {
+        fill: #1a08aa;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <path
+     style="fill:#1a08aa;stroke-width:0px"
+     d="m 700.40002,9958 h 49.8 v 99.6 h -49.8 z"
+     id="Door_1" />
+  <path
+     style="fill:#1a08aa;stroke-width:0px"
+     d="m 697.29999,9245.0996 h 49.8 v 99.6 h -49.8 z"
+     id="Door_2" />
+  <path
+     style="fill:#1a08aa;stroke-width:0px"
+     d="M 52.900002,8600.7998 H 102.7 v 99.6 H 52.900002 Z"
+     id="Door_3" />
+  <path
+     style="fill:#1a08aa;stroke-width:0px"
+     d="m 697.29999,7903.5 h 49.8 v 99.6 h -49.8 z"
+     id="Door_4" />
+  <path
+     style="fill:#1a08aa;stroke-width:0px"
+     d="m 149.39999,4077.8 h 49.8 v 99.6 h -49.8 z"
+     id="Door_5" />
+  <path
+     style="fill:#1a08aa;stroke-width:0px"
+     d="m 547.90002,3377.3999 h 49.8 v 99.6 h -49.8 z"
+     id="Door_6" />
+  <path
+     style="fill:#1a08aa;stroke-width:0px"
+     d="m 697.29999,339.29999 h 49.8 v 99.6 h -49.8 z"
+     id="Door_Top" />
+</svg>

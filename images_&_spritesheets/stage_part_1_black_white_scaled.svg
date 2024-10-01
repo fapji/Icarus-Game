@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg1"
+   width="800"
+   height="812"
+   viewBox="0 0 800 812"
+   sodipodi:docname="stage_part_1_black_white_scaled.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="6.5249432"
+     inkscape:cx="309.88775"
+     inkscape:cy="327.58906"
+     inkscape:window-width="2560"
+     inkscape:window-height="1494"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1" />
+  <g
+     id="g1">
+    <image
+       width="800"
+       height="812"
+       preserveAspectRatio="none"
+       xlink:href="stage%20part%201%20black%20white%20scaled.png"
+       id="image1" />
+    <path
+       style="fill:#000000"
+       d="M 0,812 V 99.987428 L 151.5,100.5 l 1,48 348,1 v 46 l -397.5,0.50494 -0.008,250.38675 298.50831,2.10831 0.20639,49 148.79361,1 0.53556,48.5 H 302.5 l -1.5,-52.04948 -198.01257,0.0495 0.51257,151.5 148,1 1,48.53703 348,0.0308 0.5349,-49.04908 L 699.5,646.50003 700.00656,347.60659 302.757,345.68817 302.5,298.58883 699.64952,296.53681 700.92278,100.5 800,99.981329 V 812 Z"
+       id="path1"
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+  </g>
+</svg>

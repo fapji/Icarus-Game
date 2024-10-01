@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Player + Weapon">
+      <UniqueIdentifier>{d766a6df-5016-41cd-9912-79942b9e01ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="World">
+      <UniqueIdentifier>{c3753737-7b2f-43c5-8ba6-73ac3785a17f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Classes">
+      <UniqueIdentifier>{9c5b5016-3ace-4478-aaf1-99c7ff79d32e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enemy Related">
+      <UniqueIdentifier>{323063bc-2935-4cb7-a028-46f491c9e292}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Item Related">
+      <UniqueIdentifier>{aad96f5b-c01c-4d49-b326-8ed1a73631da}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Player + Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="Arrow.cpp">
+      <Filter>Player + Weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="World.cpp">
+      <Filter>World</Filter>
+    </ClCompile>
+    <ClCompile Include="AudioManager.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="Enemy.cpp">
+      <Filter>Enemy Related</Filter>
+    </ClCompile>
+    <ClCompile Include="Snake.cpp">
+      <Filter>Enemy Related</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionManager.cpp">
+      <Filter>Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="EyeGhost.cpp">
+      <Filter>Enemy Related</Filter>
+    </ClCompile>
+    <ClCompile Include="EnemyManager.cpp">
+      <Filter>Enemy Related</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemManager.cpp">
+      <Filter>Item Related</Filter>
+    </ClCompile>
+    <ClCompile Include="Item.cpp">
+      <Filter>Item Related</Filter>
+    </ClCompile>
+    <ClCompile Include="SnakeDrop.cpp">
+      <Filter>Item Related</Filter>
+    </ClCompile>
+    <ClCompile Include="GhostDrop.cpp">
+      <Filter>Item Related</Filter>
+    </ClCompile>
+    <ClCompile Include="HpFlask.cpp">
+      <Filter>Item Related</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Arrow.h">
+      <Filter>Player + Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Player + Weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="World.h">
+      <Filter>World</Filter>
+    </ClInclude>
+    <ClInclude Include="AudioManager.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="Enemy.h">
+      <Filter>Enemy Related</Filter>
+    </ClInclude>
+    <ClInclude Include="Snake.h">
+      <Filter>Enemy Related</Filter>
+    </ClInclude>
+    <ClInclude Include="CollisionManager.h">
+      <Filter>Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="EyeGhost.h">
+      <Filter>Enemy Related</Filter>
+    </ClInclude>
+    <ClInclude Include="EnemyManager.h">
+      <Filter>Enemy Related</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemManager.h">
+      <Filter>Item Related</Filter>
+    </ClInclude>
+    <ClInclude Include="Item.h">
+      <Filter>Item Related</Filter>
+    </ClInclude>
+    <ClInclude Include="SnakeDrop.h">
+      <Filter>Item Related</Filter>
+    </ClInclude>
+    <ClInclude Include="GhostDrop.h">
+      <Filter>Item Related</Filter>
+    </ClInclude>
+    <ClInclude Include="HpFlask.h">
+      <Filter>Item Related</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
