@@ -199,9 +199,6 @@ void CollisionManager::CheckCollision(const std::vector<std::vector<Point2f>> So
 					}
 				}
 
-
-
-
 				//x
 				if (utils::Raycast(SolidVertices, Point2f(m_SnakeBounds.left - 3, m_SnakeBounds.bottom + m_SnakeBounds.height),
 					Point2f(m_SnakeBounds.left + 3 + m_SnakeBounds.width, m_SnakeBounds.bottom + m_SnakeBounds.height), m_HitInfo) ||
